@@ -1,0 +1,70 @@
+* {
+    background-color: lightskyblue;
+}
+
+header h1, h4 {
+    background-color: lightgoldenrodyellow;
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    margin: 0;
+    padding: 3px;
+    border: 1px dashed blue;
+}
+
+a:link{
+    color: black;
+    text-decoration-line: underline;
+}
+
+a:active {
+    color: grey;
+    text-decoration-line: underline;
+}
+
+a:hover {
+    color: black;
+    font-size: 20px;
+}
+
+a:visited {
+    color: grey;
+    text-decoration-line: underline;
+}
+
+#description {
+    background-color: gold;
+    width: 100%;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    border: 1px dashed blue;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+    border-top: 1px dashed blue;
+    border-bottom: 1px dashed blue;
+    border-collapse: collapse;
+}
+
+table th, td {
+    background: gold;
+}
+
+.design {
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+    border-top: 1px dashed blue;
+    border-bottom: 1px dashed blue;
+}
+
+.design p {
+    background: gold;
+    border-right: 1px dashed blue;
+    border-left: 1px dashed blue;
+    margin: 0px;
+    padding: 0px;
+
+}
